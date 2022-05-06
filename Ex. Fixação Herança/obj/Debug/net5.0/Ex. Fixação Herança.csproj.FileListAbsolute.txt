@@ -1,0 +1,16 @@
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex. Fixação Herança\Ex. Fixação Herança\bin\Debug\net5.0\Ex. Fixação Herança.exe
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex. Fixação Herança\Ex. Fixação Herança\bin\Debug\net5.0\Ex. Fixação Herança.deps.json
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex. Fixação Herança\Ex. Fixação Herança\bin\Debug\net5.0\Ex. Fixação Herança.runtimeconfig.json
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex. Fixação Herança\Ex. Fixação Herança\bin\Debug\net5.0\Ex. Fixação Herança.runtimeconfig.dev.json
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex. Fixação Herança\Ex. Fixação Herança\bin\Debug\net5.0\Ex. Fixação Herança.dll
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex. Fixação Herança\Ex. Fixação Herança\bin\Debug\net5.0\ref\Ex. Fixação Herança.dll
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex. Fixação Herança\Ex. Fixação Herança\bin\Debug\net5.0\Ex. Fixação Herança.pdb
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex. Fixação Herança\Ex. Fixação Herança\obj\Debug\net5.0\Ex. Fixação Herança.csproj.AssemblyReference.cache
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex. Fixação Herança\Ex. Fixação Herança\obj\Debug\net5.0\Ex. Fixação Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex. Fixação Herança\Ex. Fixação Herança\obj\Debug\net5.0\Ex. Fixação Herança.AssemblyInfoInputs.cache
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex. Fixação Herança\Ex. Fixação Herança\obj\Debug\net5.0\Ex. Fixação Herança.AssemblyInfo.cs
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex. Fixação Herança\Ex. Fixação Herança\obj\Debug\net5.0\Ex. Fixação Herança.csproj.CoreCompileInputs.cache
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex. Fixação Herança\Ex. Fixação Herança\obj\Debug\net5.0\Ex. Fixação Herança.dll
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex. Fixação Herança\Ex. Fixação Herança\obj\Debug\net5.0\ref\Ex. Fixação Herança.dll
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex. Fixação Herança\Ex. Fixação Herança\obj\Debug\net5.0\Ex. Fixação Herança.pdb
+C:\Users\Paroquia_Sao_Filipe_\Documents\DOCUMENTOS\KAREN\Curso c#\Ex. Fixação Herança\Ex. Fixação Herança\obj\Debug\net5.0\Ex. Fixação Herança.genruntimeconfig.cache
